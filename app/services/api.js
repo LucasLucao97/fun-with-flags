@@ -23,4 +23,4 @@ const countriesApi = {
     api.get("/all?fields=cca3,flags,name,capital,region,population")
 }
 
-export { countriesApi, weatherApi }
+export { countriesApi }
